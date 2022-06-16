@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import $ from 'jquery';
 import '../../js/custom.js';
 import flag from "../../images/icons/16.png";
-
+//
 function Footer() {
   return (
     <footer className="footer-wrapper">
